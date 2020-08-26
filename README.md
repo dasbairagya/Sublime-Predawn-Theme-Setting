@@ -6,3 +6,6 @@ replace the code inside []
 		"Predawn"
 	],
 	
+	
+	
+add all snippet files to the .config/sublimetext3/packages/users
